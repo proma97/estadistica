@@ -800,7 +800,7 @@ err4
 plot(rmodel)
 ```
  
-El último modelo predice de peor forma que los demás pero un valor de 0.81 ajusta considerablemente bien los datos y la validación en los residuos resulta equivalente a las dos validaciones anteriores por lo que se puede concluir que los 3 modelos lineales son muy parecidos y si queremos un modelo que prediga mejor las ventas podemos usar un random forest que es más completo en este caso. Por tanto, las ventas del próximo año serán:
+El último modelo predice de peor forma que los demás pero un valor de 0.81 ajusta considerablemente bien los datos y la validación en los residuos resulta equivalente a las dos validaciones anteriores por lo que se puede concluir que los 3 modelos lineales son muy parecidos y si queremos un modelo que prediga mejor las ventas podemos usar un random forest que es más completo en este caso. Por tanto, las ventas del próximo año serán las siguientes:
 
 ```{r}
 preds3
