@@ -3,7 +3,7 @@
     "path": "~/datahack/github/estadistica/paula_rodriguez.Rmd",
     "project_path": "paula_rodriguez.Rmd",
     "type": "r_markdown",
-    "hash": "2429308562",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1641559937338.0,
@@ -16,11 +16,11 @@
         "scrollLine": "790"
     },
     "folds": "",
-    "lastKnownWriteTime": 1641781694,
+    "lastKnownWriteTime": 1641781772,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1641781694153,
+    "last_content_update": 1641781772,
     "read_only": false,
     "read_only_alternatives": []
 }
